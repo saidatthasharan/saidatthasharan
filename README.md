@@ -43,6 +43,5 @@ My experience includes engineering and customer project management in an enterpr
 I’m interested in product management, AI-enabled SaaS, enterprise platforms, and technology-led business transformation.
 
 - **GitHub:** [@saidatthasharan](https://github.com/saidatthasharan)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
 
 *This profile is a working portfolio. I will add public case studies, architecture notes, product decisions, and demo links as each project is cleared for public sharing.*
