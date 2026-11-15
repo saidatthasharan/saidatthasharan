@@ -15,7 +15,7 @@ I bring a business-first product mindset: understand the user and the problem, d
 
 ## Selected product builds
 
-These are independent product initiatives and MVP/prototype builds. Their implementation and release maturity varies; I distinguish prototypes from production-ready software.
+These are independent product initiatives and MVP/prototype builds. Their implementation and release maturity varies; I distinguish prototypes from production-ready software. Source repositories: [Urbana](https://github.com/saidatthasharan/Urbana) · [MyMark ERP Ops](https://github.com/saidatthasharan/MyMark-HR-Ops) · [Civil Services LMS](https://github.com/saidatthasharan/UPSC_Ready) · [ProcureIQ](https://github.com/saidatthasharan/ProcureIQ).
 
 | Product | Problem space | Current focus |
 |---|---|---|
